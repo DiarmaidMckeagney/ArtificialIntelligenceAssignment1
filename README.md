@@ -1,1 +1,1 @@
-This is the first assignment of AI module
+This is a training project for implementing a genetic algorithm for optimising a 1-max problem.
