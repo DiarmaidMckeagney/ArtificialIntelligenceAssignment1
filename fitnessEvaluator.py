@@ -6,7 +6,3 @@ def evaluateFitness(obj):
         fitness_score += obj[i]
 
     return fitness_score / len(obj)
-
-
-obj = [1, 1, 0, 0, 0]
-print(evaluateFitness(obj))
