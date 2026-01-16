@@ -1,1 +1,1 @@
-Hello world
+This is the first assignment of AI module
